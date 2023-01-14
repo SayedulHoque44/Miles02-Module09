@@ -1,1 +1,1 @@
-# Css Grid : `grid-Areas`
+# Responsive For Small Devices.
